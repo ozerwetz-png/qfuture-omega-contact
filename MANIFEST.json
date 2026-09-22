@@ -1,0 +1,25 @@
+{
+  "project": "Q-FUTURE OMEGA",
+  "version": "1",
+  "creation_date": "2026-09-22",
+  "timezone": "Europe/Paris",
+  "repository": "ozerwetz-png/qfuture-omega-contact",
+  "canonical_challenge": "QFUTURE-OMEGA-CONTACT-F9447526E71A9DFC751B8892B061AB572B1AE909B28D6A26",
+  "canonical_challenge_sha256": "26ecf9659e4da755b74e76f4a6f2a0c379e318676a499da9a13798ce0602d490",
+  "files": {
+    "README.md": {
+      "sha256": "73ff8f3047865433608e244d3167f63a66683260dcbffca7a5a744228e76f73f"
+    },
+    "CONTACT-BEACON-V1.txt": {
+      "sha256": "0a5756eab741217c056198ca4cd2788af288892cc9293b825e0d1d405dacda73"
+    },
+    "PROTOCOL.md": {
+      "sha256": "2fe7caf7d5bd823d8ec10a72e5b5c8e2e4731e4fe130f09e1c3398bc7e4ef578"
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "72102f2af591fead6f1da7ee9e33d0f66d38623302738c9895b8a05927675b07"
+    }
+  },
+  "status": "PUBLIC_EXPERIMENTAL_BEACON",
+  "claim": "NO CLAIM OF EXISTING RETROCAUSAL COMMUNICATION"
+}
